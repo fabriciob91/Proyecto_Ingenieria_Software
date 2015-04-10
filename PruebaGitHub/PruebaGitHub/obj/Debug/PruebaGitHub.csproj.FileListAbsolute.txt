@@ -1,1 +1,10 @@
 c:\users\fabricio barahona\documents\visual studio 2013\Projects\PruebaGitHub\PruebaGitHub\bin\Debug\PruebaGitHub.exe.config
+C:\Users\Fabricio Barahona\Documents\GitHub\Proyecto_Ingenieria_Software\PruebaGitHub\PruebaGitHub\bin\Debug\PruebaGitHub.exe.config
+C:\Users\Fabricio Barahona\Documents\GitHub\Proyecto_Ingenieria_Software\PruebaGitHub\PruebaGitHub\bin\Debug\PruebaGitHub.exe
+C:\Users\Fabricio Barahona\Documents\GitHub\Proyecto_Ingenieria_Software\PruebaGitHub\PruebaGitHub\bin\Debug\PruebaGitHub.pdb
+C:\Users\Fabricio Barahona\Documents\GitHub\Proyecto_Ingenieria_Software\PruebaGitHub\PruebaGitHub\obj\Debug\PruebaGitHub.csprojResolveAssemblyReference.cache
+C:\Users\Fabricio Barahona\Documents\GitHub\Proyecto_Ingenieria_Software\PruebaGitHub\PruebaGitHub\obj\Debug\PruebaGitHub.Form1.resources
+C:\Users\Fabricio Barahona\Documents\GitHub\Proyecto_Ingenieria_Software\PruebaGitHub\PruebaGitHub\obj\Debug\PruebaGitHub.Properties.Resources.resources
+C:\Users\Fabricio Barahona\Documents\GitHub\Proyecto_Ingenieria_Software\PruebaGitHub\PruebaGitHub\obj\Debug\PruebaGitHub.csproj.GenerateResource.Cache
+C:\Users\Fabricio Barahona\Documents\GitHub\Proyecto_Ingenieria_Software\PruebaGitHub\PruebaGitHub\obj\Debug\PruebaGitHub.exe
+C:\Users\Fabricio Barahona\Documents\GitHub\Proyecto_Ingenieria_Software\PruebaGitHub\PruebaGitHub\obj\Debug\PruebaGitHub.pdb

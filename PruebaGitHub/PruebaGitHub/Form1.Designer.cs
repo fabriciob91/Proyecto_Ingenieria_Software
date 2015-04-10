@@ -28,20 +28,45 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.button1 = new System.Windows.Forms.Button();
+            this.txtHolaMundo = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(79, 111);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(123, 55);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "Hola Mundo";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // txtHolaMundo
+            // 
+            this.txtHolaMundo.Location = new System.Drawing.Point(57, 55);
+            this.txtHolaMundo.Name = "txtHolaMundo";
+            this.txtHolaMundo.Size = new System.Drawing.Size(167, 20);
+            this.txtHolaMundo.TabIndex = 1;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(287, 262);
+            this.Controls.Add(this.txtHolaMundo);
+            this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
+
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox txtHolaMundo;
     }
 }
 
